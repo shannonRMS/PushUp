@@ -42,15 +42,13 @@ public class MainActivity extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
 
-    private void testUpload() {
-        int i = 3;
-        int ii = 8;
-        int iii = i + ii;
+    private void doDeeDo() {
+        int i = 7;
 
-        String test = "test " + Integer.toString(iii);
+        int ii = 30;
 
-        boolean nononononoyes = false;
+        int iii = 56;
 
-        System.out.println("WHYYYYYYY");
+        String test = "teehee";
     }
 }
