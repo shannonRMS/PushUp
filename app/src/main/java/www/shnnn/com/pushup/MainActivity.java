@@ -43,13 +43,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testUpload() {
-        int i = 2;
-
+        int i = 3;
         int ii = 8;
-
         int iii = i + ii;
 
-        String test = "test" + Integer.toString(iii);
+        String test = "test " + Integer.toString(iii);
 
         boolean nononononoyes = false;
     }
