@@ -44,13 +44,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void doDeeDo() {
         int i = 7;
-
         int ii = 30;
-
         int iii = 56;
 
         String test = "teehee";
 
-        System.out.println("STRUGBOAT");
+        System.out.println("STRUGBOAT" + ' ' + "92");
     }
 }
