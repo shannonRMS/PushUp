@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
         String temp = "enormous";
 
         System.out.println("STRUGBOAT" + ' ' + "92");
+        System.out.println("STRUGBOAT" + ' ' + "38");
+
         if (!bb || iii < 2)
             System.out.println("Run, you fools!");
         System.out.println(temp);
