@@ -42,15 +42,13 @@ public class MainActivity extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
 
-    private void testUpload() {
+    private void doDeeDo() {
         int i = 7;
 
         int ii = 30;
 
         int iii = 56;
 
-        String test = "test";
-
-        boolean ugh = false;
+        String test = "teehee";
     }
 }
