@@ -50,5 +50,7 @@ public class MainActivity extends AppCompatActivity {
         int iii = 56;
 
         String test = "teehee";
+
+        System.out.println("STRUGBOAT");
     }
 }
