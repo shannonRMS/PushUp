@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i + ii;
 
-        String test = "test";
+        String test = "test" + Integer.toString(iii);
 
         boolean nononononoyes = false;
     }
