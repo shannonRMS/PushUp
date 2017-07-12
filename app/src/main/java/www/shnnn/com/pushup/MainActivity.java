@@ -43,13 +43,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void doDeeDo() {
-        int i = 3;
-        int ii = 8;
-        int iii = i + ii;
+        int i = 7;
+        int ii = 11;
+        int iii = i - ii;
 
         boolean bb = true;
 
-        System.out.println("STRUGBOAT" + ' ' + "92");
+        System.out.println("STRUGBOAT" + ' ' + "38");
 
         if (!bb || iii < 2)
             System.out.println("Run, you fools!");
