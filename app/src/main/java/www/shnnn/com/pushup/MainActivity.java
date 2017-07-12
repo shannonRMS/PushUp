@@ -48,5 +48,7 @@ public class MainActivity extends AppCompatActivity {
         int ii = 4;
 
         int iii = i + ii;
+
+        String test = "test";
     }
 }
