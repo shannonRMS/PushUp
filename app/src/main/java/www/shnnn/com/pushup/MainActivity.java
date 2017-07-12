@@ -43,14 +43,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testUpload() {
-        int i = 2;
+        int i = 7;
 
-        int ii = 6;
+        int ii = 30;
 
-        int iii = i + ii;
+        int iii = 56;
 
         String test = "test";
 
-        boolean True = false;
+        boolean ugh = false;
     }
 }
