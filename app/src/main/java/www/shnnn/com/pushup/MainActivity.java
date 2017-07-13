@@ -44,17 +44,17 @@ public class MainActivity extends AppCompatActivity {
 
     private void doDeeDo() {
         int i = 3;
-        int ii = 8;
-        int iii = i + ii;
+        int ii = 11;
+        int iii = i - ii;
 
-        boolean bb = true;
+        boolean bb = false;
 
         String temp = "enormously";
 
-        System.out.println("STRUGBOAT" + ' ' + "92");
+        System.out.println("STRUGBOAT" + ' ' + "91");
 
-        if (!bb || iii < 2)
+        if (bb || iii < 2)
             System.out.println("Run, you fools!");
-        System.out.println(temp + "!!!");
+        System.out.println(temp + "..");
     }
 }
